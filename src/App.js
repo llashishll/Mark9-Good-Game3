@@ -81,7 +81,6 @@ export default function App() {
     <div className="App">
       <h1> GoodGames </h1>
       <p style={{ fontSize: "larger" }}>
-        {" "}
         This website provides with a list of video games from different genre
         and their Metascore out of 100.
       </p>
