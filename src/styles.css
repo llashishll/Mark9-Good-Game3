@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-image: radial-gradient(
+    circle,
+    #c999b4,
+    #baa6cd,
+    #a6b5dc,
+    #96c2df,
+    #93cdd8,
+    #97d1d5,
+    #9ed5d1,
+    #a7d9cd,
+    #a6dbd1,
+    #a5ddd4,
+    #a4ded8,
+    #a3e0dc
+  );
+}
